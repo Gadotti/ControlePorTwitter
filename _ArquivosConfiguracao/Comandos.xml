@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<comandos>
+  <comando>
+    <id>1</id>
+    <nome>#notepad</nome>
+    <descricao>Abre o Notepad</descricao>
+    <ativo>1</ativo>
+    <data_cadastro>25/02/2010</data_cadastro>
+    <restricao_usuarios></restricao_usuarios>
+    <envia_retorno>1</envia_retorno>
+    <linhacomando>notepad</linhacomando>
+    <tipocomando>0</tipocomando>
+    <nomeservico>
+    </nomeservico>
+    <linhacomandoparametro>
+    </linhacomandoparametro>
+    <listacomandos>
+    </listacomandos>
+  </comando>
+  <comando>
+    <id>2</id>
+    <nome>#calculadora</nome>
+    <descricao>Abre a Calculadora como teste</descricao>
+    <ativo>1</ativo>
+    <data_cadastro>25/02/2010</data_cadastro>
+    <restricao_usuarios></restricao_usuarios>
+    <envia_retorno>1</envia_retorno>
+    <linhacomando>calc</linhacomando>
+    <tipocomando>0</tipocomando>
+    <nomeservico>
+    </nomeservico>
+    <linhacomandoparametro>
+    </linhacomandoparametro>
+    <listacomandos>
+    </listacomandos>
+  </comando>
+  <comando>
+    <id>3</id>
+    <nome>#Mensageiro status</nome>
+    <descricao>Obtem o status do serviço Mensageiro</descricao>
+    <ativo>1</ativo>
+    <data_cadastro>13/3/2010 11:38:45</data_cadastro>
+    <restricao_usuarios>
+    </restricao_usuarios>
+    <envia_retorno>1</envia_retorno>
+    <linhacomando>
+    </linhacomando>
+    <tipocomando>1</tipocomando>
+    <nomeservico>messenger</nomeservico>
+    <linhacomandoparametro>
+    </linhacomandoparametro>
+    <listacomandos>
+    </listacomandos>
+  </comando>
+  <comando>
+    <id>4</id>
+    <nome>#tocar musica</nome>
+    <descricao>Abre o Winamp e toca uma música</descricao>
+    <ativo>1</ativo>
+    <data_cadastro>14/3/2010 11:49:01</data_cadastro>
+    <restricao_usuarios>
+    </restricao_usuarios>
+    <envia_retorno>0</envia_retorno>
+    <linhacomando>c:\winamp</linhacomando>
+    <tipocomando>0</tipocomando>
+    <nomeservico>
+    </nomeservico>
+    <linhacomandoparametro>
+    </linhacomandoparametro>
+    <listacomandos>
+    </listacomandos>
+  </comando>
+  <comando>
+    <id>5</id>
+    <nome>#Mensageiro iniciar</nome>
+    <descricao>Ativa o serviço mensageiro</descricao>
+    <ativo>1</ativo>
+    <data_cadastro>14/3/2010 18:01:58</data_cadastro>
+    <restricao_usuarios></restricao_usuarios>
+    <envia_retorno>1</envia_retorno>
+    <linhacomando>net</linhacomando>
+    <tipocomando>0</tipocomando>
+    <nomeservico>
+    </nomeservico>
+    <linhacomandoparametro>start messenger</linhacomandoparametro>
+    <listacomandos>
+    </listacomandos>
+  </comando>
+  <comando>
+    <id>6</id>
+    <nome>#desligar</nome>
+    <descricao>Desligar o computador</descricao>
+    <ativo>1</ativo>
+    <data_cadastro>19/3/2010 19:43:40</data_cadastro>
+    <restricao_usuarios></restricao_usuarios>
+    <envia_retorno>1</envia_retorno>
+    <linhacomando>shutdown</linhacomando>
+    <tipocomando>0</tipocomando>
+    <nomeservico>
+    </nomeservico>
+    <linhacomandoparametro>
+    </linhacomandoparametro>
+    <listacomandos>
+    </listacomandos>
+  </comando>
+  <comando>
+    <id>7</id>
+    <nome>#encadeamento</nome>
+    <descricao>Teste de encadeamento</descricao>
+    <ativo>1</ativo>
+    <data_cadastro>9/4/2010 21:18:38</data_cadastro>
+    <restricao_usuarios>
+    </restricao_usuarios>
+    <envia_retorno>1</envia_retorno>
+    <linhacomando>
+    </linhacomando>
+    <tipocomando>2</tipocomando>
+    <nomeservico>
+    </nomeservico>
+    <linhacomandoparametro>
+    </linhacomandoparametro>
+    <listacomandos>1;2;5</listacomandos>
+  </comando>
+</comandos>

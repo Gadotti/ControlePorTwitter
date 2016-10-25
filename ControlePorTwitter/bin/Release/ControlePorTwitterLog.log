@@ -1,0 +1,169 @@
+
+2/5/2010 19:18:42 - ControlePorTwitter - 1.0.0 - Verificando Mensagens
+2/5/2010 19:18:59 - ControlePorTwitter - 1.0.0 -  Erro: System.Net.WebException: The remote name could not be resolved: 'api.twitter.com'
+   at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at RN.Business.Mensagem.BuscaMensagensDiretas(String pLogin, String pSenha) in D:\Sistemas\ControlePorTwitter_VB\RN\Business\Mensagem.vb:line 113
+   at RN.Business.Mensagem.MonitoraMensagens() in D:\Sistemas\ControlePorTwitter_VB\RN\Business\Mensagem.vb:line 166
+   at ControlePorTwitter.Principal.btnForcarMensagens_Click(Object sender, EventArgs e) in D:\Sistemas\ControlePorTwitter_VB\ControlePorTwitter\Principal.vb:line 207
+
+2/5/2010 19:21:25 - ControlePorTwitter - 1.0.0 - Verificando Mensagens
+2/5/2010 19:21:28 - ControlePorTwitter - 1.0.0 -  Erro de comunicação. Verifique sua conexão com internet: System.Net.WebException: The remote name could not be resolved: 'api.twitter.com'
+   at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at RN.Business.Mensagem.BuscaMensagensDiretas(String pLogin, String pSenha) in D:\Sistemas\ControlePorTwitter_VB\RN\Business\Mensagem.vb:line 113
+   at RN.Business.Mensagem.MonitoraMensagens() in D:\Sistemas\ControlePorTwitter_VB\RN\Business\Mensagem.vb:line 166
+   at ControlePorTwitter.Principal.btnForcarMensagens_Click(Object sender, EventArgs e) in D:\Sistemas\ControlePorTwitter_VB\ControlePorTwitter\Principal.vb:line 207
+
+3/5/2010 18:35:53 - ControlePorTwitter - 1.0.0 - Verificando Mensagens
+3/5/2010 18:36:02 - ControlePorTwitter - 1.0.0 -  Erro de comunicação. Verifique sua conexão com internet: System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at RN.Business.Mensagem.BuscaMensagensDiretas(String pLogin, String pSenha) in D:\Sistemas\ControlePorTwitter_VB\RN\Business\Mensagem.vb:line 113
+   at RN.Business.Mensagem.MonitoraMensagens() in D:\Sistemas\ControlePorTwitter_VB\RN\Business\Mensagem.vb:line 166
+   at ControlePorTwitter.Principal.btnForcarMensagens_Click(Object sender, EventArgs e) in D:\Sistemas\ControlePorTwitter_VB\ControlePorTwitter\Principal.vb:line 207
+
+3/5/2010 18:37:39 - ControlePorTwitter - 1.0.0 - Verificando Mensagens
+3/5/2010 18:37:47 - ControlePorTwitter - 1.0.0 -  Erro de comunicação. Verifique sua conexão com internet: System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at RN.Business.Mensagem.BuscaMensagensDiretas(String pLogin, String pSenha) in D:\Sistemas\ControlePorTwitter_VB\RN\Business\Mensagem.vb:line 113
+   at RN.Business.Mensagem.MonitoraMensagens() in D:\Sistemas\ControlePorTwitter_VB\RN\Business\Mensagem.vb:line 166
+   at ControlePorTwitter.Principal.btnForcarMensagens_Click(Object sender, EventArgs e) in D:\Sistemas\ControlePorTwitter_VB\ControlePorTwitter\Principal.vb:line 207
+
+3/5/2010 18:37:58 - ControlePorTwitter - 1.0.0 - Verificando Mensagens
+3/5/2010 18:38:26 - ControlePorTwitter - 1.0.0 -  Erro de comunicação. Verifique sua conexão com internet: System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at RN.Business.Mensagem.BuscaMensagensDiretas(String pLogin, String pSenha) in D:\Sistemas\ControlePorTwitter_VB\RN\Business\Mensagem.vb:line 113
+   at RN.Business.Mensagem.MonitoraMensagens() in D:\Sistemas\ControlePorTwitter_VB\RN\Business\Mensagem.vb:line 166
+   at ControlePorTwitter.Principal.btnForcarMensagens_Click(Object sender, EventArgs e) in D:\Sistemas\ControlePorTwitter_VB\ControlePorTwitter\Principal.vb:line 207
+
+3/5/2010 18:38:36 - ControlePorTwitter - 1.0.0 - Verificando Mensagens
+3/5/2010 18:39:05 - ControlePorTwitter - 1.0.0 -  Nenhum comando encontrado
+3/5/2010 18:39:05 - ControlePorTwitter - 1.0.0 -  Verificando Agendamentos
+3/5/2010 18:39:14 - ControlePorTwitter - 1.0.0 -  Agendamento 'Abre o Notepad' execuado com sucesso. 
+3/5/2010 18:39:15 - ControlePorTwitter - 1.0.0 -  Agendamento 'Ativa o serviço mensageiro' execuado com sucesso. 
+
+3/5/2010 18:45:14 - ControlePorTwitter - 1.0.0 - Verificando Mensagens
+3/5/2010 18:45:40 - ControlePorTwitter - 1.0.0 -  Nenhum comando encontrado
+3/5/2010 18:45:40 - ControlePorTwitter - 1.0.0 -  Verificando Agendamentos
+3/5/2010 18:48:25 - ControlePorTwitter - 1.0.0 -  Agendamento 'Ativa o serviço mensageiro' execuado com sucesso. 
+
+3/5/2010 18:51:03 - ControlePorTwitter - 1.0.0 - Verificando Mensagens
+3/5/2010 18:51:38 - ControlePorTwitter - 1.0.0 -  Erro de comunicação. Verifique sua conexão com internet: System.Net.WebException: The remote name could not be resolved: 'api.twitter.com'
+   at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at RN.Business.Mensagem.BuscaMensagensDiretas(String pLogin, String pSenha) in D:\Sistemas\ControlePorTwitter_VB\RN\Business\Mensagem.vb:line 113
+   at RN.Business.Mensagem.MonitoraMensagens() in D:\Sistemas\ControlePorTwitter_VB\RN\Business\Mensagem.vb:line 172
+   at ControlePorTwitter.Principal.btnForcarMensagens_Click(Object sender, EventArgs e) in D:\Sistemas\ControlePorTwitter_VB\ControlePorTwitter\Principal.vb:line 207
+
+3/5/2010 18:53:08 - ControlePorTwitter - 1.0.0 - Verificando Mensagens
+3/5/2010 18:53:23 - ControlePorTwitter - 1.0.0 -  Nenhum comando encontrado
+3/5/2010 18:53:23 - ControlePorTwitter - 1.0.0 -  Verificando Agendamentos
+3/5/2010 18:53:47 - ControlePorTwitter - 1.0.0 -  Agendamento 'Abre a Calculadora como teste' execuado com sucesso. 
+
+18/5/2010 19:08:22 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+18/5/2010 19:08:48 - ControlePorTwitter - 1.0.1 -  Erro de comunicação. Verifique sua conexão com internet: System.Net.WebException: The remote name could not be resolved: 'api.twitter.com'
+   at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at RN.Business.Mensagem.BuscaMensagensDiretas(String pLogin, String pSenha) in D:\Sistemas\ControlePorTwitter\#Beta_v1-0-1\RN\Business\Mensagem.vb:line 113
+   at RN.Business.Mensagem.MonitoraMensagens() in D:\Sistemas\ControlePorTwitter\#Beta_v1-0-1\RN\Business\Mensagem.vb:line 172
+   at ControlePorTwitter.Principal.btnForcarMensagens_Click(Object sender, EventArgs e) in D:\Sistemas\ControlePorTwitter\#Beta_v1-0-1\ControlePorTwitter\Principal.vb:line 207
+18/5/2010 19:08:48 - ControlePorTwitter - 1.0.1 - Fim verificação
+
+18/5/2010 20:58:16 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+18/5/2010 20:58:26 - ControlePorTwitter - 1.0.1 -  Executando comando '#calculadora'
+18/5/2010 20:58:26 - ControlePorTwitter - 1.0.1 -  Verificando Agendamentos
+18/5/2010 20:58:26 - ControlePorTwitter - 1.0.1 -  Nenhum agendamento.
+18/5/2010 20:58:28 - ControlePorTwitter - 1.0.1 - Fim verificação
+
+20/5/2010 19:24:46 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+20/5/2010 19:24:56 - ControlePorTwitter - 1.0.1 -  Nenhum comando encontrado
+20/5/2010 19:24:56 - ControlePorTwitter - 1.0.1 -  Verificando Agendamentos
+20/5/2010 19:24:56 - ControlePorTwitter - 1.0.1 -  Agendamento 'Abre a Calculadora como teste' execuado com sucesso. 
+20/5/2010 19:24:57 - ControlePorTwitter - 1.0.1 - Fim verificação
+
+20/5/2010 19:25:01 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+20/5/2010 19:25:11 - ControlePorTwitter - 1.0.1 -  Nenhum comando encontrado
+20/5/2010 19:25:11 - ControlePorTwitter - 1.0.1 -  Verificando Agendamentos
+20/5/2010 19:25:12 - ControlePorTwitter - 1.0.1 -  Agendamento 'Abre a Calculadora como teste' execuado com sucesso. 
+20/5/2010 19:25:14 - ControlePorTwitter - 1.0.1 - Fim verificação
+
+20/5/2010 19:33:06 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+20/5/2010 19:34:53 - ControlePorTwitter - 1.0.1 -  Erro: System.InvalidCastException: Conversion from string "19-May-2010 24:02:03" to type 'Date' is not valid.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToDate(String Value)
+   at RN.Business.Funcoes.FromTwitterDate(String pData) in D:\Sistemas\ControlePorTwitter\#Beta_v1-0-1\RN\Business\Funcoes.vb:line 14
+   at RN.Business.Mensagem.BuscaMensagensDiretas(String pLogin, String pSenha) in D:\Sistemas\ControlePorTwitter\#Beta_v1-0-1\RN\Business\Mensagem.vb:line 132
+   at RN.Business.Mensagem.MonitoraMensagens() in D:\Sistemas\ControlePorTwitter\#Beta_v1-0-1\RN\Business\Mensagem.vb:line 172
+   at ControlePorTwitter.Principal.btnForcarMensagens_Click(Object sender, EventArgs e) in D:\Sistemas\ControlePorTwitter\#Beta_v1-0-1\ControlePorTwitter\Principal.vb:line 207
+20/5/2010 19:34:53 - ControlePorTwitter - 1.0.1 - Fim verificação
+
+20/5/2010 19:34:54 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+20/5/2010 19:35:49 - ControlePorTwitter - 1.0.1 -  Nenhum comando encontrado
+20/5/2010 19:35:49 - ControlePorTwitter - 1.0.1 -  Verificando Agendamentos
+20/5/2010 19:35:50 - ControlePorTwitter - 1.0.1 -  Agendamento 'Abre a Calculadora como teste' execuado com sucesso. 
+20/5/2010 19:35:57 - ControlePorTwitter - 1.0.1 - Fim verificação
+
+20/5/2010 19:36:23 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+20/5/2010 19:36:44 - ControlePorTwitter - 1.0.1 -  Nenhum comando encontrado
+20/5/2010 19:36:47 - ControlePorTwitter - 1.0.1 -  Verificando Agendamentos
+
+20/5/2010 19:39:58 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+20/5/2010 19:40:21 - ControlePorTwitter - 1.0.1 -  Erro de comunicação. Verifique sua conexão com internet: System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente 168.143.171.93:80
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.InternalConnect(EndPoint remoteEP)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Int32 timeout, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at RN.Business.Mensagem.BuscaMensagensDiretas(String pLogin, String pSenha) in D:\Sistemas\ControlePorTwitter\#Beta_v1-0-1\RN\Business\Mensagem.vb:line 113
+   at RN.Business.Mensagem.MonitoraMensagens() in D:\Sistemas\ControlePorTwitter\#Beta_v1-0-1\RN\Business\Mensagem.vb:line 172
+   at ControlePorTwitter.Principal.btnForcarMensagens_Click(Object sender, EventArgs e) in D:\Sistemas\ControlePorTwitter\#Beta_v1-0-1\ControlePorTwitter\Principal.vb:line 207
+20/5/2010 19:40:21 - ControlePorTwitter - 1.0.1 - Fim verificação
+
+20/5/2010 19:40:39 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+20/5/2010 19:40:51 - ControlePorTwitter - 1.0.1 -  Nenhum comando encontrado
+20/5/2010 19:40:51 - ControlePorTwitter - 1.0.1 -  Verificando Agendamentos
+20/5/2010 19:40:51 - ControlePorTwitter - 1.0.1 -  Nenhum agendamento.
+20/5/2010 19:40:53 - ControlePorTwitter - 1.0.1 - Fim verificação
+
+25/5/2010 19:54:15 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+25/5/2010 19:54:44 - ControlePorTwitter - 1.0.1 -  Executando comando '#Mensageiro status'
+25/5/2010 19:54:55 - ControlePorTwitter - 1.0.1 -  Retorno enviado com sucesso.
+25/5/2010 19:54:55 - ControlePorTwitter - 1.0.1 -  Verificando Agendamentos
+25/5/2010 19:55:30 - ControlePorTwitter - 1.0.1 -  Nenhum agendamento.
+25/5/2010 19:55:32 - ControlePorTwitter - 1.0.1 - Fim verificação
+
+25/5/2010 19:56:26 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+25/5/2010 19:56:30 - ControlePorTwitter - 1.0.1 -  Nenhum comando encontrado
+25/5/2010 19:56:30 - ControlePorTwitter - 1.0.1 -  Verificando Agendamentos
+25/5/2010 19:56:37 - ControlePorTwitter - 1.0.1 -  Nenhum agendamento.
+25/5/2010 19:56:39 - ControlePorTwitter - 1.0.1 - Fim verificação
+
+25/5/2010 19:57:47 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+25/5/2010 19:57:53 - ControlePorTwitter - 1.0.1 -  Nenhum comando encontrado
+25/5/2010 19:57:53 - ControlePorTwitter - 1.0.1 -  Verificando Agendamentos
+25/5/2010 19:58:40 - ControlePorTwitter - 1.0.1 -  Agendamento 'Abre o Notepad' execuado com sucesso. 
+25/5/2010 19:58:43 - ControlePorTwitter - 1.0.1 - Fim verificação
+
+25/5/2010 19:58:44 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+25/5/2010 19:58:48 - ControlePorTwitter - 1.0.1 -  Nenhum comando encontrado
+25/5/2010 19:58:48 - ControlePorTwitter - 1.0.1 -  Verificando Agendamentos
+25/5/2010 19:58:58 - ControlePorTwitter - 1.0.1 -  Agendamento 'Abre o Notepad' execuado com sucesso. 
+
+25/5/2010 20:02:01 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+25/5/2010 20:02:06 - ControlePorTwitter - 1.0.1 -  Nenhum comando encontrado
+25/5/2010 20:02:06 - ControlePorTwitter - 1.0.1 -  Verificando Agendamentos
+25/5/2010 20:02:47 - ControlePorTwitter - 1.0.1 -  Agendamento 'Abre o Notepad' execuado com sucesso. 
+
+25/5/2010 20:07:32 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+25/5/2010 20:07:36 - ControlePorTwitter - 1.0.1 -  Nenhum comando encontrado
+25/5/2010 20:07:36 - ControlePorTwitter - 1.0.1 -  Verificando Agendamentos
+25/5/2010 20:08:15 - ControlePorTwitter - 1.0.1 -  Nenhum agendamento.
+25/5/2010 20:08:17 - ControlePorTwitter - 1.0.1 - Fim verificação
+
+25/5/2010 20:10:49 - ControlePorTwitter - 1.0.1 - Verificando Mensagens
+25/5/2010 20:10:57 - ControlePorTwitter - 1.0.1 -  Nenhum comando encontrado
+25/5/2010 20:10:57 - ControlePorTwitter - 1.0.1 -  Verificando Agendamentos
+25/5/2010 20:11:07 - ControlePorTwitter - 1.0.1 -  Agendamento 'Abre o Notepad' execuado com sucesso. 

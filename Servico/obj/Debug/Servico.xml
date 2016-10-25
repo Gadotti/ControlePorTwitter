@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Servico
+</name>
+</assembly>
+<members>
+<member name="F:Servico.Principal.components">
+	<remarks>
+ Required designer variable.
+ </remarks>
+</member><member name="M:Servico.Principal.InitializeComponent">
+	<summary>
+ Required method for Designer support - do not modify
+ the contents of this method with the code editor.
+ </summary>
+</member><member name="M:Servico.Principal.Dispose(System.Boolean)">
+	<summary>
+ Clean up any resources being used.
+ </summary>
+</member><member name="M:Servico.Principal.OnStart(System.String[])">
+	<summary>
+ Set things in motion so your service can do its work.
+ </summary>
+</member><member name="M:Servico.Principal.OnStop">
+	<summary>
+ Stop this service.
+ </summary>
+</member><member name="P:Servico.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Servico.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Servico.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

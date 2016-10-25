@@ -1,0 +1,12 @@
+D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\Servico.exe
+D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\Servico.pdb
+D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\Servico.xml
+D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\RN.dll
+D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\RN.pdb
+D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\RN.xml
+D:\Sistemas\ControlePorTwitter_VB\Servico\obj\Release\ResolveAssemblyReference.cache
+D:\Sistemas\ControlePorTwitter_VB\Servico\obj\Release\Servico.Resources.resources
+D:\Sistemas\ControlePorTwitter_VB\Servico\obj\Release\Servico.vbproj.GenerateResource.Cache
+D:\Sistemas\ControlePorTwitter_VB\Servico\obj\Release\Servico.exe
+D:\Sistemas\ControlePorTwitter_VB\Servico\obj\Release\Servico.xml
+D:\Sistemas\ControlePorTwitter_VB\Servico\obj\Release\Servico.pdb

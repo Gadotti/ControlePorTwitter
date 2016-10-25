@@ -1,0 +1,137 @@
+﻿Installing assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe assembly.
+Committing assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Committing assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Uninstalling assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Installing assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Committing assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Uninstalling assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Uninstalling assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Removing EventLog source Twitter Monitor.
+Service Twitter Monitor is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Installing service Twitter Monitor...
+Service Twitter Monitor has been successfully installed.
+Creating EventLog source Twitter Monitor in log Application...
+Committing assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Uninstalling assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Removing EventLog source Twitter Monitor.
+Service Twitter Monitor is being removed from the system...
+Service Twitter Monitor was successfully removed from the system.
+Installing assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Installing service Twitter Monitor...
+Service Twitter Monitor has been successfully installed.
+Creating EventLog source Twitter Monitor in log Application...
+Committing assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Uninstalling assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Removing EventLog source Twitter Monitor.
+Service Twitter Monitor is being removed from the system...
+Service Twitter Monitor was successfully removed from the system.
+Installing assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Installing service Twitter Monitor...
+Service Twitter Monitor has been successfully installed.
+Creating EventLog source Twitter Monitor in log Application...
+Committing assembly 'D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter_VB\Servico\bin\Release\TwitterMonitor.InstallLog
+Uninstalling assembly 'D:\Sistemas\ControlePorTwitter\#Beta_v1-0-0\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter\#Beta_v1-0-0\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter\#Beta_v1-0-0\Servico\bin\Release\TwitterMonitor.InstallLog
+Removing EventLog source Twitter Monitor.
+Service Twitter Monitor is being removed from the system...
+Service Twitter Monitor was successfully removed from the system.
+Installing assembly 'D:\Sistemas\ControlePorTwitter\#Beta_v1-0-0\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter\#Beta_v1-0-0\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter\#Beta_v1-0-0\Servico\bin\Release\TwitterMonitor.InstallLog
+Installing service Twitter Monitor...
+Service Twitter Monitor has been successfully installed.
+Creating EventLog source Twitter Monitor in log Application...
+Committing assembly 'D:\Sistemas\ControlePorTwitter\#Beta_v1-0-0\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter\#Beta_v1-0-0\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter\#Beta_v1-0-0\Servico\bin\Release\TwitterMonitor.InstallLog
+Uninstalling assembly 'D:\Sistemas\ControlePorTwitter\#Beta_v1-0-0\Servico\bin\Release\TwitterMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sistemas\ControlePorTwitter\#Beta_v1-0-0\Servico\bin\Release\TwitterMonitor.exe
+   logfile = D:\Sistemas\ControlePorTwitter\#Beta_v1-0-0\Servico\bin\Release\TwitterMonitor.InstallLog
+Removing EventLog source Twitter Monitor.
+Service Twitter Monitor is being removed from the system...
+Service Twitter Monitor was successfully removed from the system.
